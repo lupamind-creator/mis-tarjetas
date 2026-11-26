@@ -1,0 +1,15 @@
+{
+  "name": "mis-tarjetas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "App Android para controlar gastos, pagos y meses sin intereses de tarjetas de crédito",
+  "dependencies": {
+    "@capacitor/android": "8.6.3",
+    "@capacitor/app": "8.1.2",
+    "@capacitor/core": "8.6.3",
+    "@capacitor/local-notifications": "8.3.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "8.6.3"
+  }
+}
